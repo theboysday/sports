@@ -16,6 +16,20 @@ The primary objectives of this project include:
 - **styles.css**: Shared stylesheet used by the pages.
 - **README.md**: (This file) provides an overview of the project and outlines what’s included in the repository.
 
+## Live Site
+
+The project is published using GitHub Pages: [https://theboysday.github.io/sports/](https://theboysday.github.io/sports/)
+
+## Deployment Notes
+
+- The site is hosted using GitHub Pages.
+- Only the main branch root folder is used.
+- Any merged changes into `main` will be reflected live within 1–2 minutes.
+- Direct links to key pages:
+  - Home: [/index.html](https://theboysday.github.io/sports/index.html)
+  - About: [/about.html](https://theboysday.github.io/sports/about.html)
+  - Contact: [/contact.html](https://theboysday.github.io/sports/contact.html)
+
 ## Next Steps
 
 Here are the next steps I'm planning to work on:
