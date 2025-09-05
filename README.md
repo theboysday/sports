@@ -40,3 +40,9 @@ Here are the next steps I'm planning to work on:
 ## Contact
 
 If you'd like to collaborate or have any tips, feel free to reach out to me on GitHub!
+
+## Relay Test Diagram
+
+```mermaid
+D([Perform bypass relay test<br>(midpoint bed)])
+```
